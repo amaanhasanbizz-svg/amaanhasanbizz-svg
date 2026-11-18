@@ -1,54 +1,47 @@
 
-<p>
-  <img src="./assets/banner.gif"
-       alt="Animated ASCII banner"
-       width="100%">
-</p>
+<div align="center">
 
-hi! i'm amaan. i'm building at the intersection
-of ai, autonomy, and startups.
+# Hey, I'm Amaan 👋
 
-currently working on
-[hyperfleets.ai](https://hyperfleets.ai)
-and experimenting with autonomous systems.
+### Founder | AI & Autonomous Systems | ASU
 
-#### my codex usage across devices
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Hyperfleets.ai;Exploring+AI+and+Autonomy;Turning+Ideas+Into+Reality" />
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="18%">stat</th>
-      <th align="left" width="36%">value</th>
-      <th align="right" width="46%">tokens over time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>lifetime tokens</td>
-      <td>Pending setup</td>
-      <td rowspan="6" align="center">
-        Chart pending setup
-      </td>
-    </tr>
-    <tr>
-      <td>est. API cost</td>
-      <td>Pending setup</td>
-    </tr>
-    <tr>
-      <td>current streak</td>
-      <td>Pending setup</td>
-    </tr>
-    <tr>
-      <td>daily history</td>
-      <td>Pending setup</td>
-    </tr>
-    <tr>
-      <td>history tokens</td>
-      <td>Pending setup</td>
-    </tr>
-    <tr>
-      <td>updated</td>
-      <td>Pending setup</td>
-    </tr>
-  </tbody>
-</table>
+</div>
+
+---
+
+### 🚀 What I'm Building
+
+**Hyperfleets.ai** — Building an autonomous operating system for fleets.
+
+**Relay** — AI-powered multi-robot orchestration.
+
+**Other Projects** — Exploring AI agents, automation, and new technologies.
+
+---
+
+### 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaanhasanbizz-svg&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaanhasanbizz-svg&layout=compact&theme=github_dark)
+
+### 🔥 Coding Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amaanhasanbizz-svg&theme=github-dark)
+
+---
+
+### 🌐 Connect
+
+[Hyperfleets.ai](https://hyperfleets.ai) | [GitHub](https://github.com/amaanhasanbizz-svg)
+
