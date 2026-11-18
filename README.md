@@ -1,4 +1,3 @@
-
 <p>
   <img src="./g4nesh-ascii.gif" alt="ASCII animation" width="100%">
 </p>
@@ -7,7 +6,7 @@ hi! i'm amaan. i'm building at the intersection of ai, autonomous systems, and s
 
 currently building [hyperfleets.ai](https://hyperfleets.ai) — an autonomous operating system for fleets.
 
-#### my codex usage across devices
+#### my codex usage
 
 <table width="100%">
   <thead>
@@ -20,31 +19,32 @@ currently building [hyperfleets.ai](https://hyperfleets.ai) — an autonomous op
   <tbody>
     <tr>
       <td width="18%">lifetime tokens</td>
-      <td width="36%">Not connected</td>
+      <td width="36%">134,492,086 (134.49M)</td>
       <td rowspan="6" width="46%" valign="middle" align="center">
-        Codex usage chart
-        <p>Awaiting usage data</p>
+        <img src="./codex-usage.svg" alt="Cumulative Codex token usage over time" width="378">
       </td>
     </tr>
     <tr>
       <td>est. API cost</td>
-      <td>Not connected</td>
+      <td>Unavailable</td>
     </tr>
     <tr>
       <td>current streak</td>
-      <td>Not connected</td>
+      <td>2 days</td>
     </tr>
     <tr>
       <td>daily history</td>
-      <td>Not connected</td>
+      <td>Nov 9, 2026 → Nov 18, 2026</td>
     </tr>
     <tr>
       <td>history tokens</td>
-      <td>Not connected</td>
+      <td>134,492,086</td>
     </tr>
     <tr>
       <td>updated</td>
-      <td>Not connected</td>
+      <td>Nov 18, 2026 (MST)</td>
     </tr>
   </tbody>
 </table>
+
+<sub>Snapshot from the Codex session history available on this Mac.</sub>
