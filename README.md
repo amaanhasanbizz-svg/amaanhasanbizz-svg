@@ -45,3 +45,18 @@
 
 [Hyperfleets.ai](https://hyperfleets.ai) | [GitHub](https://github.com/amaanhasanbizz-svg)
 
+<p align="center">
+  <img src="./g4nesh-ascii.gif" width="100%" />
+</p>
+
+hi! i'm amaan, building at the intersection of
+ai, autonomous systems, and startups.
+
+currently working on hyperfleets.ai.
+
+for my projects, check out
+[my repositories](https://github.com/amaanhasanbizz-svg?tab=repositories).
+
+### my codex usage across devices
+
+
