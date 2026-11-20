@@ -4,7 +4,7 @@
 
 hi! i'm amaan. i'm building at the intersection of ai, autonomous systems, and startups. here you'll find some of the projects i've worked on and things i'm currently building.
 
-currently building [hyperfleets.ai](https://hyperfleets.ai) — an autonomous operating system for fleets.
+currently building  — an autonomous operating system for fleets.
 
 #### my codex usage
 
